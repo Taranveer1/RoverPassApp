@@ -32,7 +32,7 @@ namespace RoverPass.ViewModels.AboutUs
         public AboutUsViewModel()
         {
             this.productDescription =
-                "Situated in the heart of Smith-town, Acme Products, Inc., has a long-standing tradition of selling the best products while providing the fastest service on the market. Since 1952, we’ve helped our customers identify their needs, understand their wants, and capture their dreams.";
+                "The RoverPass app is an app designed to ...";
             this.productIcon = App.BaseImageUrl + "Icon.png";
             this.productVersion = "1.0";
             this.cardsTopImage = App.BaseImageUrl + "Mask.png";
